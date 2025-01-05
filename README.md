@@ -21,7 +21,7 @@
 </p>
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
-## GitHub Activity CLI
+##GitHub Activity CLI
 
 **GitHub Activity CLI** es una herramienta de línea de comandos (CLI) construida en [NEST](https://nestjs.com) que permite a los usuarios consultar y visualizar la actividad reciente de un usuario de GitHub directamente desde la terminal.
 
