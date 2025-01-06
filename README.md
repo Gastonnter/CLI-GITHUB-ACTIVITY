@@ -31,10 +31,10 @@
 ## Uso
 
 
-1. Clona este repositorio:
+1. construi la aplicacion:
    ~~~
    npm run build
-2. Navega al directorio del proyecto:
+2. ejecuta el comando:
    ~~~
-   node dist/main.js --user 
+   node dist/main.js --user nombreUsuario
    ~~~
